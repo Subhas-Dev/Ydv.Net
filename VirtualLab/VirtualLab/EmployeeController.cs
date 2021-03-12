@@ -23,5 +23,10 @@ namespace VirtualLab
         {
             EmpList.Remove(Emp);
         }
+        
+        public void UpdateEmp1(Employee Emp)
+        {
+            EmpList.Remove(Emp);
+        }
     }
 }
