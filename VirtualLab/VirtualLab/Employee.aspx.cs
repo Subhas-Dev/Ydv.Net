@@ -34,6 +34,7 @@ namespace VirtualLab
                 drpCity.Items.Add(new ListItem("Toronto"));
                 drpCity.Items.Add("Waterloo");
                 drpCity.Items.Add("Mississauga");
+                drpCity.Items.Add("Guelph");
                 chkDoctorate.Focus();
             }
 
